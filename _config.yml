@@ -2,7 +2,7 @@
 title:               Journal
 tagline:             '@OneBigBot'
 description:         'Computer science, un-artificial intelligence and some math.'
-url:                 onebigbot.com
+url:                 /
 baseurl:             ''
 paginate:            5
 permalink:           pretty
