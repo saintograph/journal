@@ -23,7 +23,7 @@ Personal notes on goal-setting and knowledge retention when learning:
 
 4* Make notes. Write down everything from thoughts and observations to impressions. Why not learn from the best?
    
-      * [Newton and Darwin]([http://cudl.lib.cam.ac.uk/](http://cudl.lib.cam.ac.uk/)
+      * [Newton and Darwin](http://cudl.lib.cam.ac.uk/)
      
       * [Linus Pauling](http://scarc.library.oregonstate.edu/coll/pauling/peace/notes/index.html)
 
