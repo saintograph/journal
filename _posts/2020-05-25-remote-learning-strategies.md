@@ -8,11 +8,11 @@ Personal notes on goal-setting and knowledge retention when learning:
 
 1. **Apply knowledge to alternative cases.**
    
-   * knowing graph theory and applying path-finding to the Bridges of Königsberg from an example provided by learning material is good. Applying it independently to cases such as social network analysis or species migration paths is a great way to cement the learning
+   * knowing graph theory and applying path-finding to the Bridges of Königsberg from an example provided by learning material is good. Applying it independently to cases such as social network analysis or species migration paths is a great way to cement the learning.
 
 2. **Set learning goals for the session and week.**
    
-   * triathletes plan a season in advance by setting the training volume, duration and putting the schedule down in writing before committing to it. The same can be done for learning goals
+   * triathletes plan a season in advance by setting the training volume, duration and putting the schedule down in writing before committing to it. The same can be done for learning goals.
 
 3. **Don't stray.**
    
