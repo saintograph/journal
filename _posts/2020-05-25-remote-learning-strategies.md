@@ -15,7 +15,7 @@ Personal notes on goal-setting and knowledge retention when learning:
 
 2* Set learning goals for the session and week.
    
-   * triathletes plan a season in advance by setting the training volume, duration and putting the schedul down in writing before committing to it. The same can be done for learning goals
+   * triathletes plan a season in advance by setting the training volume, duration and putting the schedule down in writing before committing to it. The same can be done for learning goals
 
 3* Don't stray
    
